@@ -1,7 +1,7 @@
 ## Hola, soy Iker 👋  
 
 ### Sobre mí:  
-🔭 Actualmente estoy trabajando en mi TFG **EatIt**, una red social de cocina.  
+🔭 Actualmente estoy buscando empleo como Programador
 
 🌱 Estoy aprendiendo:  
 - ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=flat-square)
