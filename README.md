@@ -6,7 +6,7 @@
 🌱 Estoy aprendiendo:  
 - ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=flat-square)
 - ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
-- ![sharp Badge](https://img.shields.io/badge/sharp-9C0?logo=sharp&logoColor=fff&style=flat-square)
+- ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square)
 
 💻 **Tecnologías:**  
