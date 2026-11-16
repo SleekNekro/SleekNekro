@@ -1,43 +1,36 @@
 # Hola, soy Iker 👋
 
-Me interesa construir aplicaciones útiles y fáciles de usar. Aprendo desarrollando proyectos, probando ideas y mejorando lo que no termina de encajar.
+Soy **Iker Pérez Mata**, también conocido por aquí como **SleekNekro**. Me interesa el desarrollo de software y crear aplicaciones que resuelvan problemas cotidianos sin complicar su uso.
 
-Estoy buscando oportunidades como **desarrollador** para seguir aprendiendo y aportar a un equipo. Aquí comparto mis proyectos, las tecnologías que voy explorando y lo que aprendo por el camino.
+Aprendo construyendo: pruebo ideas, me encuentro con problemas y voy mejorando los proyectos con cada iteración. Este perfil recoge ese recorrido, con lo que ya funciona y lo que todavía estoy aprendiendo.
 
-## 🚀 Proyecto destacado · Nexo CRM
+**Actualmente busco una oportunidad como desarrollador** para seguir creciendo, aprender de otras personas y aportar a un equipo.
 
-**Mi primer CRM y mi primera aplicación de esta envergadura.** Un proyecto open source pensado para ayudar a pymes a organizar clientes, presupuestos y trabajo diario sin complicar su uso.
+## Qué me interesa
 
-[![Panel de Nexo CRM con datos ficticios](https://raw.githubusercontent.com/SleekNekro/nexo-crm/main/docs/screenshots/dashboard.jpg)](https://github.com/SleekNekro/nexo-crm)
+- **Desarrollo web y de aplicaciones:** conectar una interfaz clara con la lógica y los datos que necesita.
+- **Experiencia de usuario:** reducir pasos y hacer que una herramienta resulte cómoda, también para personas poco acostumbradas a la tecnología.
+- **Backend y organización del código:** entender cómo encajan las piezas y cómo mantenerlas a medida que crece un proyecto.
+- **IA aplicada al desarrollo:** explorar modelos locales y programación agéntica, siendo transparente sobre cómo los utilizo.
 
-- Empresas, contactos, actividades y tratos en Kanban.
-- Presupuestos con revisiones y PDF, pedidos y seguimiento de obras.
-- Cuentas, permisos y espacios de empresa con datos separados.
-- Interfaz web adaptable y código de clientes de escritorio y Android.
+## Con qué estoy trabajando
 
-**Next.js · React · TypeScript · PostgreSQL · Docker · Tauri 2 · Java / Android**
+En mis proyectos recientes estoy utilizando **React, Next.js, JavaScript, TypeScript, PostgreSQL y Docker**. También sigo aprendiendo y explorando **Kotlin, Spring Boot, Ktor y Figma**.
 
-Lo estoy desarrollando con **programación agéntica y asistencia de Codex**: los agentes participan en la implementación, las pruebas, la refactorización y la documentación. Yo defino los problemas y el comportamiento esperado, pruebo los flujos y oriento las iteraciones. Es una parte importante del proceso, y también de lo que estoy aprendiendo.
+Entre mis herramientas habituales están **IntelliJ IDEA, Android Studio y Codex**. Trabajo con agentes de IA como apoyo para implementar, probar y documentar; también dedico tiempo a entender el código y las decisiones que hay detrás.
 
-La demo utiliza una empresa ficticia de construcción. La idea es evolucionar hacia una herramienta configurable para pymes de distintos sectores, manteniendo la sencillez. La configuración modular sin código es un objetivo futuro; todavía no está disponible.
+## Algunos proyectos
 
-**[Ver Nexo CRM y probarlo →](https://github.com/SleekNekro/nexo-crm)** · Licencia MIT: puedes descargarlo, hacer un fork y adaptarlo. Los clientes nativos se entregan como código fuente, no como instaladores listos para usar.
-
-## Otros proyectos
-
-| Proyecto | Qué puedes encontrar |
+| Proyecto | Qué estoy explorando |
 |---|---|
-| [Analizador de CV con IA](https://github.com/SleekNekro/analizador-cv) | Aplicación con Streamlit, Ollama, LlamaIndex y Qdrant para analizar CV en PDF y compararlos con ofertas de trabajo mediante modelos locales. |
-| [TaskManager](https://github.com/SleekNekro/task-manager-react) | Gestor de tareas con React y Vite: edición, filtros, diseño adaptable y persistencia en el navegador. |
+| [Nexo CRM](https://github.com/SleekNekro/nexo-crm) | Mi primer CRM: gestión para pymes, sencillez de uso y desarrollo con agentes de IA. Open source bajo MIT. |
+| [Analizador de CV con IA](https://github.com/SleekNekro/analizador-cv) | Análisis de documentos con modelos locales, Streamlit y Ollama. |
+| [TaskManager](https://github.com/SleekNekro/task-manager-react) | Componentes React, organización del estado e interfaces adaptables. |
 
-## 🛠️ Tecnologías y aprendizaje
+Cada repositorio cuenta su propia historia: funcionalidades, decisiones, instrucciones para probarlo y próximos pasos.
 
-Mi trabajo reciente se centra en **React, Next.js, TypeScript, PostgreSQL y Docker**. También sigo aprendiendo y explorando **Kotlin, JavaScript, Spring Boot, Ktor y Figma**.
+## Hablamos ☕
 
-Me interesan especialmente los flujos sencillos, la organización del código y el uso de agentes de IA en el desarrollo. Publico los proyectos con sus límites y tareas pendientes: son parte del aprendizaje, no solo una captura del resultado.
+Si buscas a alguien con ganas de aprender, tienes una propuesta de colaboración o quieres comentar alguno de mis proyectos, estaré encantado de hablar.
 
-## Hablamos
-
-Si tienes una oportunidad, una propuesta de colaboración o una sugerencia para alguno de los proyectos, puedes escribirme.
-
-[Correo](mailto:ikerperezmata03@gmail.com) · [LinkedIn](https://www.linkedin.com/in/iker-perez-mata03) · [Mis repositorios](https://github.com/SleekNekro?tab=repositories)
+[Correo](mailto:ikerperezmata03@gmail.com) · [LinkedIn](https://www.linkedin.com/in/iker-perez-mata03) · [Más proyectos](https://github.com/SleekNekro?tab=repositories)
