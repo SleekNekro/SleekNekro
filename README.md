@@ -1,37 +1,43 @@
-## Hola, soy Iker 👋  
+# Hola, soy Iker 👋
 
-### Sobre mí:  
-🔭 Actualmente estoy buscando empleo como Programador
+Me interesa construir aplicaciones útiles y fáciles de usar. Aprendo desarrollando proyectos, probando ideas y mejorando lo que no termina de encajar.
 
-🌱 Estoy aprendiendo:  
-- ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=flat-square)
-- ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
-- ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square)
+Estoy buscando oportunidades como **desarrollador** para seguir aprendiendo y aportar a un equipo. Aquí comparto mis proyectos, las tecnologías que voy explorando y lo que aprendo por el camino.
 
-💻 **Tecnologías:**  
-- ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=flat-square)
-- ![Ktor Badge](https://img.shields.io/badge/Ktor-087CFA?logo=ktor&logoColor=fff&style=flat-square)  
+## 🚀 Proyecto destacado · Nexo CRM
 
+**Mi primer CRM y mi primera aplicación de esta envergadura.** Un proyecto open source pensado para ayudar a pymes a organizar clientes, presupuestos y trabajo diario sin complicar su uso.
 
-🛠️ **IDEs favoritos:**
-  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+[![Panel de Nexo CRM con datos ficticios](https://raw.githubusercontent.com/SleekNekro/nexo-crm/main/docs/screenshots/dashboard.jpg)](https://github.com/SleekNekro/nexo-crm)
 
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) 
+- Empresas, contactos, actividades y tratos en Kanban.
+- Presupuestos con revisiones y PDF, pedidos y seguimiento de obras.
+- Cuentas, permisos y espacios de empresa con datos separados.
+- Interfaz web adaptable y código de clientes de escritorio y Android.
 
+**Next.js · React · TypeScript · PostgreSQL · Docker · Tauri 2 · Java / Android**
 
+Lo estoy desarrollando con **programación agéntica y asistencia de Codex**: los agentes participan en la implementación, las pruebas, la refactorización y la documentación. Yo defino los problemas y el comportamiento esperado, pruebo los flujos y oriento las iteraciones. Es una parte importante del proceso, y también de lo que estoy aprendiendo.
 
+La demo utiliza una empresa ficticia de construcción. La idea es evolucionar hacia una herramienta configurable para pymes de distintos sectores, manteniendo la sencillez. La configuración modular sin código es un objetivo futuro; todavía no está disponible.
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ikerperezmata03@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SleekNekro&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SleekNekro&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SleekNekro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**[Ver Nexo CRM y probarlo →](https://github.com/SleekNekro/nexo-crm)** · Licencia MIT: puedes descargarlo, hacer un fork y adaptarlo. Los clientes nativos se entregan como código fuente, no como instaladores listos para usar.
 
+## Otros proyectos
 
----
-[![](https://visitcount.itsvg.in/api?id=SleekNekro&icon=0&color=0)](https://visitcount.itsvg.in)
+| Proyecto | Qué puedes encontrar |
+|---|---|
+| [Analizador de CV con IA](https://github.com/SleekNekro/analizador-cv) | Aplicación con Streamlit, Ollama, LlamaIndex y Qdrant para analizar CV en PDF y compararlos con ofertas de trabajo mediante modelos locales. |
+| [TaskManager](https://github.com/SleekNekro/task-manager-react) | Gestor de tareas con React y Vite: edición, filtros, diseño adaptable y persistencia en el navegador. |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tecnologías y aprendizaje
+
+Mi trabajo reciente se centra en **React, Next.js, TypeScript, PostgreSQL y Docker**. También sigo aprendiendo y explorando **Kotlin, JavaScript, Spring Boot, Ktor y Figma**.
+
+Me interesan especialmente los flujos sencillos, la organización del código y el uso de agentes de IA en el desarrollo. Publico los proyectos con sus límites y tareas pendientes: son parte del aprendizaje, no solo una captura del resultado.
+
+## Hablamos
+
+Si tienes una oportunidad, una propuesta de colaboración o una sugerencia para alguno de los proyectos, puedes escribirme.
+
+[Correo](mailto:ikerperezmata03@gmail.com) · [LinkedIn](https://www.linkedin.com/in/iker-perez-mata03) · [Mis repositorios](https://github.com/SleekNekro?tab=repositories)
