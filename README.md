@@ -4,7 +4,7 @@
 
 ### Desarrollo web · Aplicaciones · Aprender construyendo
 
-Soy **Iker Pérez Mata**, también conocido como **SleekNekro**.  
+Soy **Iker Pérez Mata**,  
 Me gusta convertir ideas en herramientas útiles y fáciles de usar.
 
 ![Buscando oportunidades](https://img.shields.io/badge/Abierto_a_oportunidades-2563EB?style=for-the-badge)
